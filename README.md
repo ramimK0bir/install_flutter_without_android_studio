@@ -1,5 +1,4 @@
 # install_flutter_without_android_studio_in_windows_11
-this_is_how_you_install_flutter_without_android_studio
 
 
 - create file structure
