@@ -18,6 +18,10 @@ mdkir Android\Sdk\cmdline-tools\latest
 
 
 
+- download latest flutter zip and extract in /tools
+
+
+
 - install sdk 17
 and put in Java dir in /tools
 
@@ -34,6 +38,7 @@ JAVA_HOME=c:\tools\Java\jdk-17.x.x (replace)
 ```plaintext
 c:\tools\Android\Sdk\cmdline-tools\latest\bin
 c:\tools\Android\Sdk\platform-tools
+c:\tools\flutter\bin
 C:\tools\Java\jdk-17.x.x\bin (replace)
 ```
 
