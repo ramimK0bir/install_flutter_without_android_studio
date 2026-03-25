@@ -7,9 +7,9 @@ cd /
 mkdir -p tools
 cd tools
 mkdir Android
-mdkir Android\Sdk
-mdkir Android\Sdk\cmdline-tools
-mdkir Android\Sdk\cmdline-tools\latest
+mkdir Android\Sdk
+mkdir Android\Sdk\cmdline-tools
+mkdir Android\Sdk\cmdline-tools\latest
 ```
 
 - download cmdline-tools and extract in c:\tools\Android\Sdk\cmdline-tools\latest
