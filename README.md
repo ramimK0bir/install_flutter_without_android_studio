@@ -4,7 +4,7 @@
 - create file structure
 ```bash
 cd /
-mdkir -p tools
+mkdir -p tools
 cd tools
 mkdir Android
 mdkir Android\Sdk
