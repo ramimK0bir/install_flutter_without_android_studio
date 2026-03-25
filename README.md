@@ -13,7 +13,8 @@ mkdir Android\Sdk\cmdline-tools\latest
 ```
 
 - download cmdline-tools  [from this link](https://developer.android.com/studio#command-line-tools-only)
-- extract cmdline-tools-latest.zip > cmdline-tools > bin and all content in and extract in c:\tools\Android\Sdk\cmdline-tools\latest
+- copy all(bin,lib,notice, source properties) content and paste in c:\tools\Android\Sdk\cmdline-tools\latest
+- from cmdline-tools-latest.zip> cmdline-tools >
 
 
 
