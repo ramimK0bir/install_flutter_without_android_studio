@@ -5,6 +5,7 @@
 ```bash
 mkdir C:\tools
 mkdir C:\tools\Android
+mkdir C:\tools\Java
 mkdir C:\tools\Android\Sdk
 mkdir C:\tools\Android\Sdk\cmdline-tools
 mkdir C:\tools\Android\Sdk\cmdline-tools\latest
