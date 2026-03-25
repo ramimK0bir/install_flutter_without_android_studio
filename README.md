@@ -17,11 +17,12 @@ mkdir Android\Sdk\cmdline-tools\latest
 
 
 
-- download latest flutter zip and extract in /tools
+- download latest flutter zip and extract in /tools [from this link](https://docs.flutter.dev/install/manual#install-flutter)
 
 
 
 - install sdk 17
+create a Java folder in /tools
 and put in Java dir in /tools
 
 
