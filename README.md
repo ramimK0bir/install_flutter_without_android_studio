@@ -79,7 +79,7 @@ Add these two variables:
 | `JAVA_HOME` | `C:\tools\Java\jdk-17.0.15` ← replace with your exact folder name |
 
 ---
-
+click `OK` 3 times
 ## 5. Add to PATH
 
 > 💡 How to add to PATH:
@@ -93,6 +93,8 @@ C:\tools\Android\Sdk\platform-tools
 C:\tools\flutter\bin
 C:\tools\Java\jdk-17.0.15\bin    ← replace with your exact folder name
 ```
+
+click `OK` 3 times
 
 ---
 
